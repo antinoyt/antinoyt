@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @antino
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java and Dat
+- 👋 Hi, I’m @eaturevegetable or antino, call me how you want ! 
+- 🌱 I’m currently learning Java and DataScience
 - 📫 You can find me directly on my youtube channel "antino"
 
 <!---
